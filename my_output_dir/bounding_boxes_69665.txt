@@ -1,0 +1,13 @@
+./my_output_dir\Tu\WIN_20181008_14_24_19_Pro.png 596 299 796 542
+./my_output_dir\Tu\WIN_20181008_14_24_21_Pro.png 585 283 781 520
+./my_output_dir\Tu\WIN_20181008_14_24_23_Pro.png 593 274 787 516
+./my_output_dir\Tuan\WIN_20170914_18_28_35_Pro.png 577 126 829 438
+./my_output_dir\Tuan\WIN_20171109_00_00_10_Pro.png 515 170 759 492
+./my_output_dir\Tuan\WIN_20180130_10_37_32_Pro.png 472 26 742 359
+./my_output_dir\Tuan\WIN_20180130_22_57_52_Pro.png 414 74 739 499
+./my_output_dir\Tuan\WIN_20180215_01_00_39_Pro.png 429 199 809 701
+./my_output_dir\Tuan\WIN_20180227_09_37_44_Pro.png 440 190 751 567
+./my_output_dir\Tuan\WIN_20180228_20_05_47_Pro.png 454 34 810 517
+./my_output_dir\Tuong\WIN_20181008_14_24_03_Pro.png 507 269 696 498
+./my_output_dir\Tuong\WIN_20181008_14_24_04_Pro.png 508 270 697 498
+./my_output_dir\Tuong\WIN_20181008_14_24_05_Pro.png 509 271 698 498
