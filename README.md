@@ -21,6 +21,6 @@
 </br> (Note that, look carefully at the paths of files and folders in all .py)
 
 ## Performance
-*After fit a bunch image of faces(5 images/face) for 3 person, model did not perform well, problem maybe depends on light where you standing, and angle of a face. 
-That's mean, probably you gotta need more pictures of a human face on different angles. But you will not be able to load a training set because of your limited RAM. (I've got only 4GB RAM on my laptop, and only 1.88GB RAM of it for GPU, which i use for load training data)
+* After fit a bunch image of faces(5 images/face) for 3 person, model did not perform well, problem maybe depends on light where you standing, and angle of a face. 
+* That's mean, probably you gotta need more pictures of a human face on different angles. But you will not be able to load a training set because of your limited RAM. (I've got only 4GB RAM on my laptop, and only 1.88GB RAM of it for GPU, which i use for load training data)
 Hopefully, I'll try to implement OpenFace, or change tripless loss into softmax loss.
